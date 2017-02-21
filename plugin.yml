@@ -1,0 +1,7 @@
+name: AFKplugin
+main: io.github.mittosaurus.AFKplugin
+version: 1.0
+commands: 
+  goafk:
+    description: yar har the pirates life fer me
+    usage: /goafk
